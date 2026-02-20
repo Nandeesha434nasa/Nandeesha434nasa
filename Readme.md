@@ -30,13 +30,8 @@
 - Console-based system to manage student records with file persistence
 - **Tech:** C++, STL, File I/O, OOP
 - 🔗 [View Repository](https://github.com/Nandeesha434nasa/student-management-system)
-- 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nandeesha434nasa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nandeesha434nasa&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandeesha434nasa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repos
-- 🔗 [Deepfake Detection System](https://github.com/Nandeesha434nasa/deep_fake) — Python, FastAPI, OpenCV, EfficientNet-B4 (92.5% Accuracy)
-- 🔗 [Smart Attendance System](https://github.com/Nandeesha434nasa/Smart-Attendance-System) — MERN Stack, Geofencing, JWT Auth
-- 🔗 [Student Management System](https://github.com/Nandeesha434nasa/student-management-system) — C++, STL, File I/O, OOP
